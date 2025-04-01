@@ -1,0 +1,46 @@
+{
+  "clients": [
+    {
+      "id": "2",
+      "nom": "Elfried Fiona",
+      "adresse": "Japoma",
+      "tel": "677456378"
+    },
+    {
+      "id": "4",
+      "nom": "Melvine",
+      "adresse": "Bamena",
+      "tel": "098765"
+    },
+    {
+      "id": "5",
+      "nom": "Dorien",
+      "adresse": "Akwa",
+      "tel": "678967454"
+    },
+    {
+      "id": "8014",
+      "nom": "LORI ",
+      "adresse": "kootto",
+      "tel": "676543245"
+    },
+    {
+      "id": "64fc",
+      "nom": "LORI TEZEMBONG",
+      "adresse": "kootto",
+      "tel": "643577835"
+    },
+    {
+      "id": "62d9",
+      "nom": "Dipoko",
+      "adresse": "village",
+      "tel": "677895423"
+    },
+    {
+      "id": "1992",
+      "nom": "BOLEMEN",
+      "adresse": "Vinny",
+      "tel": "675849303"
+    }
+  ]
+}
